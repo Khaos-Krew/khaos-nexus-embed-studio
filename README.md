@@ -2,6 +2,8 @@
 
 A standalone, browser-based Discord embed builder and live preview studio for Khaos Nexus game modules.
 
+**Current release:** `v0.1.0` — initial visual builder and GitHub Pages deployment.
+
 ## Included in the first release
 
 - Responsive red-and-black Khaos Nexus interface
